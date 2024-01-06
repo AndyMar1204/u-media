@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">u-media</string>
+    <string name="title_activity_main">u-media</string>
+    <string name="package_name">u.media</string>
+    <string name="custom_url_scheme">u.media</string>
+</resources>
